@@ -2,7 +2,7 @@
 	<div class = "blur"></div>
 	<div id="text">
 		<div id="login">
-			<a class="btn-auth btn-facebook large" href="#">hello</a>
+			<a class="btn-auth btn-facebook large" href="login"><h1>Login with Facebook</h1></a>
 			
 		</div>
 	</div>
@@ -40,22 +40,5 @@
 	}
 	
 </style>
-
-
-<script>
-	function testing(){
-		document.write('asdf');
-	}
-	function show(ID){
-		document.write('asdf');
-		var a;
-		for(a = 0; a < document.getElementsByTagName("li").length; a++){
-			if(inputs[i].id.equals(ID){
-				document.getElementsById(ID)[a].style.height ="50px";
-			}
-		}
-	}
-</script>
-
 
 </body>
